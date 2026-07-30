@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+
+# Upload temp files
+/var/uploads/
+chunks/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

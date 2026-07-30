@@ -1,0 +1,5 @@
+pip install djangorestframework
+pip install djangorestframework-simplejwt
+pip install celery[redis]
+pip install moviepy
+pip install redis
